@@ -63,7 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Code.cs" />
+    <Compile Include="Assets\ATT.cs" />
+    <Compile Include="Assets\FF.cs" />
     <Compile Include="Assets\Menu.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/morte/Desktop/Background Stuff/Unity/Around-The-Table/Around The Table/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
