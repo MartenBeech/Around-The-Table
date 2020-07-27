@@ -219,7 +219,7 @@ public class FF : MonoBehaviour
 
                         case 4:
                             points = 4;
-                            answers[i].GetComponentInChildren<Text>().text = "Lola nede ved strøget";
+                            answers[i].GetComponentInChildren<Text>().text = "Cookie, the street hoe";
                             break;
 
                         case 5:
@@ -276,7 +276,7 @@ public class FF : MonoBehaviour
         answers[2].GetComponentInChildren<Text>().text = "Felicitaciones!";
         answers[3].GetComponentInChildren<Text>().text = "Complimenti!";
         answers[4].GetComponentInChildren<Text>().text = "Parabéns!";
-        answers[5].GetComponentInChildren<Text>().text = "Tebrikler!";
+        answers[5].GetComponentInChildren<Text>().text = "Apsveicam!";
         answers[6].GetComponentInChildren<Text>().text = "Glückwunsch!";
         answers[7].GetComponentInChildren<Text>().text = "Skål!";
     }
